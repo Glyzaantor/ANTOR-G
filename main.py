@@ -1,4 +1,3 @@
-# PYTHON STUDENT REVIEWER - LESSON 1 BASIC PYTHON SYNTAX
 print("===== PYTHON STUDENT REVIEWER =====")
 
 # Student Information
